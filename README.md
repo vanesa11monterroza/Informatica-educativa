@@ -4,4 +4,4 @@
 ## JEIVER luis RAMOS TORDECILLA
 ## Fanklin Martínez A. Docente
 ## DESCRIPCION:
-## En este proyecto abordaremos las problemáticas de la informática en la educación, dando así una explicación breve de lo que esto implica, también  ejerciendo lecturas con respecto al problema, dando actividades o soluciones que implique el cambio de esta problemática a un beneficio.
+## En este proyecto se dará a conocer la importancia de la informática en la educación como herramienta para resolver problemas en la enseñanza práctica de muchas materias, utilizando herramientas multimedia en el proceso de la educación permitiendo explorar fácilmente palabras, sonidos, imágenes, videos y animaciones que transforma a los alumnos, de receptores pasivos de la información en participantes activos mediante el uso de estas herramientas tecnológicas.
