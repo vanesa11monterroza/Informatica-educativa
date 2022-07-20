@@ -1,7 +1,5 @@
 # INFORMATICA EDUCATIVA
-## ANDRES FELIPE CARE
 ## ANY MONTERROZA
-## JEIVER luis RAMOS TORDECILLA
 ## Fanklin Martínez A. Docente
 
 ## DESCRIPCION: Tema Central, El Computador en la Educacion 
