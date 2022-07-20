@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>creditos</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="shortcut icon" href="../imagenes/favicon.png" type="image/x-icon">
+</head>
+<body>
+
+  <div class="panel" >
+    <h1>Informática Educativa</h1>
+
+  <pre> 
+    Asignatura: Algoritmia
+    
+    Profesor: Fanklin Martínez A.
+
+    Tema Central: El Computador en la Educacion 
+ 
+    Grupo:
+
+    •	Any Vanesa Monterroza Mariota 
+ 
+    </pre>
+  </div>       
+    <div class="count-particles">
+        <span class="js-count-particles">--</span> particles
+      </div>
+      <div id="particles-js"></div>
+    
+      <script src="particles.js"></script>
+      <script src="js/app.js"></script>
+      
+      <script src="js/lib/stats.js"></script>
+    
+      <script>
+         var count_particles, stats, update;
+        stats = new Stats;
+        stats.setMode(0);
+        stats.domElement.style.position = 'absolute';
+        stats.domElement.style.left = '0px';
+        stats.domElement.style.top = '0px';
+        document.body.appendChild(stats.domElement);
+        count_particles = document.querySelector('.js-count-particles');
+        update = function() {
+          stats.begin();
+          stats.end();
+          if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+            count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+          }
+          requestAnimationFrame(update);
+        };
+         requestAnimationFrame(update);
+      </script>
+    
+     </body>
+</html>
